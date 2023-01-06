@@ -18,11 +18,17 @@ Regras do banco:
 3.Deve ser criado os seguintes relatórios:
 
 3.1. Alunos ativos por curso
+
 3.2. Aluno matriculados por curso
+
 3.3. Disciplinas matriculadas
+
 3.4. Alunos ativos por curso e currículo
+
 3.5. Aluno sem curso
+
 3.6. Disciplina com matrículas
+
 3.7. Disciplinas do currículo  
 
 O banco de dados SQL Server proposto por este desafio foi feito no Cloud SQL do Google.
